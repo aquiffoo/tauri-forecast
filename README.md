@@ -1,5 +1,6 @@
 # tauri-forecast
 A simple and blazingly fast weather forecast app built with Tauri.
+![image](https://github.com/user-attachments/assets/7aea65f1-5e3d-4e89-9822-f99c1396eed1)
 
 ## Getting Started
 
